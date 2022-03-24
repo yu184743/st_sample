@@ -1,3 +1,3 @@
 import streamlit as st
 st.title("hello world!")
-st>write("練習")
+st.write("練習")
